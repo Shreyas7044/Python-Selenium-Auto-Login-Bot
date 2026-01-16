@@ -44,7 +44,7 @@ In today’s digital world, almost every website requires authentication. Loggin
 ---
 
 ## 🖼️ Output
-![Application Screenshot]()
+![Application Screenshot](Python-Selenium-Auto-Login-Bot/screenshot.png)
 
 ---
 
